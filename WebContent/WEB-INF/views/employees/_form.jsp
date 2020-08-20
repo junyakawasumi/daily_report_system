@@ -29,4 +29,4 @@
 <br /><br />
 
 <input type="hidden" name="_token" value="${_token}" /> <%-- セッションID --%>
-<button type="submit">投稿</button>
+<button type="submit">登録</button>
